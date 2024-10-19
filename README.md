@@ -2,6 +2,11 @@
 
 Welcome to my web portfolio! This project showcases my skills, experiences, and projects as a web developer. The design is clean, modern, and responsive, ensuring a great user experience across all devices.
 
+
+![image](https://github.com/user-attachments/assets/c1f8de6f-8f30-4521-97c7-2860eda04e4c)
+
+
+
 ## 🚀 Features
 
 - **Responsive Design**: The layout adapts seamlessly to different screen sizes, providing an optimal viewing experience on both mobile and desktop devices.
